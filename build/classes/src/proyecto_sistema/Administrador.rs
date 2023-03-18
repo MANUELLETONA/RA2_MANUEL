@@ -1,0 +1,5 @@
+proyecto_sistema.Administrador$1
+proyecto_sistema.Administrador
+proyecto_sistema.Administrador$2
+proyecto_sistema.Administrador$3
+proyecto_sistema.Administrador$4
